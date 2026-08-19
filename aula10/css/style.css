@@ -10,8 +10,10 @@ body {
 
 p {
     color: #f2f2f2;
-    font-size: 120%;
+    font-size: 2em;
     font-weight: bold;
+    line-height: 25px;
+    /* espaçamento entre as linhas */
 }
 
 h1 {
@@ -21,8 +23,15 @@ h1 {
 
 h2 {
     font-size: 3em;
-    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
-    font-weight: 800;
+    font-family: "Rubik Spray Paint", system-ui;
+    font-weight: 400;
+    font-style: normal;
+    /* font-weight */
+    /* Controla a grossura do texto
+        100 = superfino
+        400 = normal
+        700 = negrito
+        900 = suoer negrito */
 }
 
 /* -------------------------------------------------------------------- */
@@ -34,3 +43,8 @@ h2 {
 
 /* 5VW - 5% da largura da tela / isso faz com que o tamanho do texto se ajuste a tamanho da tela! Muito usado */
 /* -------------------------------------------------------------------- */
+
+span {
+    font-size: 5m ;
+    color: red;
+}
