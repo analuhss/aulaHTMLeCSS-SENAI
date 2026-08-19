@@ -1,0 +1,28 @@
+body {
+    background-color: #343D59;
+}
+
+#paragrafo1 {
+    color: #BDC9F2;
+     font-family: "Bricolage Grotesque", sans-serif;
+    font-optical-sizing: auto;
+    font-style: normal;
+    font-variation-settings:
+        "wdth" 100;
+}
+
+/* SELETORES */
+/* propria tag html */
+/* h1, p, span ,a */
+
+/* ID */
+/* atributo HTML que adiciona um identificador único na tag. Esse identificador pode ser muito utilizado no CSS para selecionarmos o elemento: */
+
+
+/* CLASSES */
+/* atributos html que adiciona um identificador reutilizável na TAG. Esse identificador pode ser utlizao no CSS para selecionarmos o(s) elemento(s): */
+
+.titulo {
+    color: #9EB5FF;
+}
+]
